@@ -20,7 +20,7 @@ On Bottos blockchain, you have the newly designed basic blockchain services
 -  **Smart Contracts Domain**
 
 
-And you also have multiple services below which are dedicated designed for AI ecosystem
+And you also have multiple services below which are designed for AI ecosystem
 
 -  **Multi-Data Service**
 -  **Adaptive Distributed Storage**
